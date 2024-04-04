@@ -1,0 +1,6 @@
+Items,Sum_institution_knowledge,Sum_Victim,Sum_Fear,Sum_SecurityLevel,Sum_Info_Width
+Sum_institution_knowledge,1.0,0.29,0.29,0.37,0.54
+Sum_Victim,0.29,1.0,0.34,0.22,0.25
+Sum_Fear,0.29,0.34,1.0,0.25,0.33
+Sum_SecurityLevel,0.37,0.22,0.25,1.0,0.53
+Sum_Info_Width,0.54,0.25,0.33,0.53,1.0

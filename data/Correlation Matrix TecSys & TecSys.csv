@@ -1,0 +1,10 @@
+Items,TecSys_Engage,TecSys_TryNew,TecSys_HaveToEngage,TecSys_TryOutIntensively,TecSys_GetToKnowNew,TecSys_DontCareHowWorks,TecSys_UnderstandHowWorks,TecSys_BasicFuncEnough,TecSys_EntireFunctionality
+TecSys_Engage,1.0,0.75,-0.15,0.71,0.78,-0.45,0.69,-0.39,0.69
+TecSys_TryNew,0.75,1.0,-0.12,0.74,0.75,-0.39,0.64,-0.36,0.68
+TecSys_HaveToEngage,-0.15,-0.12,1.0,-0.09,-0.16,0.36,-0.07,0.34,-0.08
+TecSys_TryOutIntensively,0.71,0.74,-0.09,1.0,0.73,-0.38,0.65,-0.36,0.68
+TecSys_GetToKnowNew,0.78,0.75,-0.16,0.73,1.0,-0.44,0.68,-0.4,0.68
+TecSys_DontCareHowWorks,-0.45,-0.39,0.36,-0.38,-0.44,1.0,-0.42,0.63,-0.34
+TecSys_UnderstandHowWorks,0.69,0.64,-0.07,0.65,0.68,-0.42,1.0,-0.36,0.63
+TecSys_BasicFuncEnough,-0.39,-0.36,0.34,-0.36,-0.4,0.63,-0.36,1.0,-0.33
+TecSys_EntireFunctionality,0.69,0.68,-0.08,0.68,0.68,-0.34,0.63,-0.33,1.0
